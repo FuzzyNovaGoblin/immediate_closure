@@ -1,0 +1,11 @@
+[package]
+name = "immediate_closure"
+version = "0.1.0"
+authors = ["FuzzyNovaGoblin <fuzzy.nova.goblin@outlook.com>"]
+edition = "2018"
+
+description = "lets you write a closure to be immediately run"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
