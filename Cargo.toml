@@ -3,6 +3,7 @@ name = "immediate_closure"
 version = "0.1.0"
 authors = ["FuzzyNovaGoblin <fuzzy.nova.goblin@outlook.com>"]
 edition = "2018"
+license = "MIT"
 
 description = "lets you write a closure to be immediately run"
 
